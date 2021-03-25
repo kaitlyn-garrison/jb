@@ -1,0 +1,113 @@
+h1{
+  font-family: ubuntu;
+  font-size: 4.5rem;
+  color: #8B1333;
+}
+h2{
+  font-family: Montserrat;
+  font-size: 2rem;
+  color: #9C5806;
+  padding-bottom: 1.5rem;
+}
+h3{
+  font-family: ubuntu;
+  font-size: 2rem;
+  color: #1D0954;
+}
+p{
+  font-family: Montserrat;
+  color:#1D0954;
+  font-size: 1.5rem;
+}
+
+.selector{
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1;
+  background-color: #475657;
+}
+.color-section{
+  background-color: #B8E0E0;
+}
+
+.big-heading{
+  margin-top: 5rem;
+}
+
+.imgtitle{
+  height:90%;
+  padding-left: 4rem;
+  transform: rotate(25deg);}
+
+
+.iconimg{
+  height:20%;
+  opacity: 50%;
+}
+.feature-box{
+  padding:15rem 2rem 0 2rem;
+}
+
+.meatpic{
+  width:70%;
+}
+.abouthead{
+  margin: 10rem auto 3rem 4rem;
+  text-align: left;
+  font-size: 5rem;
+}
+.about{
+  text-align: left;
+  padding: 4rem;
+}
+.about2{
+  text-align: right;
+  padding: 4rem;
+}
+.buddy-pic{
+  border-radius: 50%;
+  height:10%;
+  width: 10%;
+  border-style: double;
+  border-color: white;
+  border-width: 1rem;
+}
+.section-heading{
+  font-size: 3.5rem;
+}
+.facebook{
+  width:80%;
+  opacity: 50%;
+  padding: 5rem 2rem;
+}
+.footerbrand{
+  width: 3%;
+}
+#about{
+  padding: 4rem 5rem;
+}
+#heading{
+  margin: 10rem 4rem 5rem 4rem;
+}
+#features{
+  margin: 3rem auto;
+}
+#product{
+  margin: 10rem 3rem;
+}
+#cta{
+  text-align: right;
+
+}
+#footer{
+  color:#9C5806;
+}
+
+#product,#cta,#footer{
+padding: 1.5rem 5rem;
+}
+#features,#product,#footer{
+  text-align: center;
+}
